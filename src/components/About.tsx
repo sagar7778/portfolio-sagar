@@ -46,7 +46,7 @@ const About = () => {
       <div className="bg-white p-8 rounded-2xl shadow-lg border border-slate-100">
         <h4 className="text-2xl font-bold text-slate-800 mb-4">Core Skills & Expertise</h4>
         <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
-          {["React.js", "Next.js", "TypeScript", "Tailwind CSS", "JavaScript", "HTML5", "CSS3", "Git"].map((skill) => (
+          {["React.js", "Next.js", "TypeScript", "Tailwind CSS", "JavaScript", "HTML5", "CSS3", "GitHub"].map((skill) => (
             <div key={skill} className="bg-gradient-to-r from-violet-50 to-indigo-50 px-4 py-2 rounded-lg text-center">
               <span className="text-slate-700 font-medium">{skill}</span>
             </div>
