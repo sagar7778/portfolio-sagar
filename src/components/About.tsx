@@ -242,7 +242,7 @@ const About = () => {
                 B.Tech in Information Technology
               </h4>
               <span className="bg-gradient-to-r from-violet-100 to-indigo-100 text-violet-700 px-4 py-2 rounded-full text-sm font-medium">
-                2016 - 2020
+                2021 - 2024
               </span>
             </div>
             <p className="text-violet-600 font-medium mb-4 text-lg">
@@ -283,7 +283,7 @@ const About = () => {
                 Diploma in Information Technology
               </h4>
               <span className="bg-gradient-to-r from-violet-100 to-indigo-100 text-violet-700 px-4 py-2 rounded-full text-sm font-medium">
-                2013 - 2016
+                2018 - 2021
               </span>
             </div>
             <p className="text-violet-600 font-medium mb-4 text-lg">
